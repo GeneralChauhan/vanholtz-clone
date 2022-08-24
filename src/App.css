@@ -3,3 +3,96 @@
   background-color: #4801ff;
 }
 /* Add fonts */
+
+@font-face {
+  font-family: 'akzidenzgroteskregular';
+  src: url('akzidenz-grotesk-black-webfont.woff2') format('woff2'),
+       url('akzidenz-grotesk-black-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'akzidenzgroteskregular';
+  src: url('akzidenz-grotesk-bold-webfont.woff2') format('woff2'),
+       url('akzidenz-grotesk-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'akzidenzgroteskregular';
+  src: url('akzidenz-grotesk-light-webfont.woff2') format('woff2'),
+       url('akzidenz-grotesk-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'akzidenzgroteskregular';
+  src: url('akzidenz-grotesk-roman-webfont.woff2') format('woff2'),
+       url('akzidenz-grotesk-roman-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'druk_wide_webbold';
+  src: url('druk_wide_web_bold_regular-webfont.woff2') format('woff2'),
+       url('druk_wide_web_bold_regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'druk_wide_webmedium';
+  src: url('druk_wide_web_medium_regular-webfont.woff2') format('woff2'),
+       url('druk_wide_web_medium_regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'druk_wide_websuper';
+  src: url('druk_wide_web_super_regular-webfont.woff2') format('woff2'),
+       url('druk_wide_web_super_regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'akzidenzgroteskregular';
+  src: url('akzidenz-grotesk-black-webfont.woff2') format('woff2'),
+       url('akzidenz-grotesk-black-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}

@@ -1,12 +1,7 @@
-* {
-    text-align: center;
-    background-color: #4801ff;
-  }
-  /* Add fonts*/
-  
+
   @font-face {
     font-family: 'akzidenz-black';
-    src: url(./assets/fonts/fonts/akzidenz-grotesk-black-webfont.woff2) format('woff2');
+    src: url('../assets/fonts/fonts/akzidenz-grotesk-black-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
   
@@ -17,7 +12,7 @@
   
   @font-face {
     font-family: 'akzidenz-bold';
-    src: url('./assets/fonts/fonts/akzidenz-grotesk-bold-webfont.woff2') format('woff2');
+    src: url('../assets/fonts/fonts/akzidenz-grotesk-bold-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
   
@@ -28,7 +23,7 @@
   
   @font-face {
     font-family: 'akzidenz-light';
-    src: url('./assets/fonts/fonts/akzidenz-grotesk-light-webfont.woff2') format('woff2');      
+    src: url('../assets/fonts/fonts/akzidenz-grotesk-light-webfont.woff2') format('woff2');      
     font-weight: normal;
     font-style: normal;
   
@@ -38,8 +33,8 @@
   
   
   @font-face {
-    font-family: 'akzidenz-black-roman';
-    src: url('./assets/fonts/fonts/akzidenz-grotesk-roman-webfont.woff2') format('woff2');
+    font-family: 'akzidenz-roman';
+    src: url('../assets/fonts/fonts/akzidenz-grotesk-roman-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
   
@@ -50,7 +45,7 @@
   
   @font-face {
     font-family: 'druk-bold';
-    src: url('./assets/fonts/fonts/druk_wide_web_bold_regular-webfont.woff2') format('woff2');
+    src: url('../assets/fonts/fonts/druk_wide_web_bold_regular-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
   
@@ -61,7 +56,7 @@
   
   @font-face {
     font-family: 'druk-medium';
-    src: url('./assets/fonts/fonts/druk_wide_web_medium_regular-webfont.woff2') format('woff2');
+    src: url('../assets/fonts/fonts/druk_wide_web_medium_regular-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
   
@@ -72,7 +67,7 @@
   
   @font-face {
     font-family: 'druk-super';
-    src: url('./assets/fonts/fonts/druk_wide_web_super_regular-webfont.woff2') format('woff2');
+    src: url('../assets/fonts/fonts/druk_wide_web_super_regular-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
   
@@ -83,8 +78,22 @@
   
   @font-face {
     font-family: 'druk-black';
-    src: url('./assets/fonts/fonts/akzidenz-grotesk-black-webfont.woff2') format('woff2');
+    src: url('../assets/fonts/fonts/akzidenz-grotesk-black-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
   
   }
+
+* {
+    text-align: center;
+    background-color: #4801ff;
+    font-family: "druk-medium";
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+    line-height: .9em;
+    transition: color .5s,opacity .5s;;
+  }
+  

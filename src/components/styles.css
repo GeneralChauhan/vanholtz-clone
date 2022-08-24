@@ -85,6 +85,9 @@
   }
 
 * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
     text-align: center;
     background-color: #4801ff;
     font-family: "druk-medium";
@@ -96,4 +99,8 @@
     line-height: .9em;
     transition: color .5s,opacity .5s;;
   }
-  
+  .titleMain{
+    /* margin-right: 0; */
+    float: right;
+    width: fit-content; 
+  }

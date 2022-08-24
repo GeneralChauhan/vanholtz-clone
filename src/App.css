@@ -1,4 +1,7 @@
 * {
   text-align: center;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-kerning: auto;
   background-color: #4801ff;
 }

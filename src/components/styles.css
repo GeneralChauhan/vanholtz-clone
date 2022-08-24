@@ -101,6 +101,11 @@
   }
   .titleMain{
     /* margin-right: 0; */
+    font-size: 93px;
     float: right;
     width: fit-content; 
+    transform: rotateY(-45deg) translateZ(0) scale(1);
+    transform-origin: right center;
+    transform-style: preserve-3d;
+    will-change: transform;
   }

@@ -101,6 +101,7 @@
   }
   .titleMain{
     /* margin-right: 0; */
+    display: block;
     font-size: 93px;
     float: right;
     width: fit-content; 
